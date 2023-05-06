@@ -1,0 +1,38 @@
+const ProjectData = [
+    {
+        id: '1',
+        title: "E'clair",
+        heroPrototype: "/images/projects/eclair/eclair-hero.png",
+        description: 'A French Cuisine Review App',
+        projectSummary: 'Éclair is a French restaurant review app with the  objective of to help people find an authentic French restaurant experience. We need to find out if the main user experience, which is posting review and reading review could be completed with ease',
+        designerRole: 'UI/UX Designer',
+        projectGoal: 'To create a mobile app that allows users to review and share their favorite French cuisine.',
+        projectDuration: 'November 2022 to April 2023',
+        projectTools: 'Figma, Adobe Illustrator, Adobe Photoshop',
+        targetAudience: 'Food lovers, French cuisine lovers, French cuisine restaurant owners',
+        challenges: 'The biggest challenge was to create a design that is simple and easy to use. I wanted to make sure that the design is not too overwhelming for the users. I also wanted to make sure that the design is not too simple and boring. I wanted to make sure that the design is not too overwhelming for the users. I also wanted to make sure that the design is not too simple and boring.',
+        lofiPrototype: '/images/projects/eclair/eclair-lofi.png',
+        hifiPrototype: '/images/projects/eclair/eclair-hifi.png',
+        slideDeckFile: '/documents/eclair-slidedeck.pdf',
+        conclusion: "In conclusion, the Éclair French restaurant review app project aimed to provide an intuitive and user-friendly platform for individuals seeking an authentic French restaurant experience. Through our UX design process, we focused on ensuring that the main user experience of posting and reading reviews could be completed with ease. We conducted thorough user research and usability testing to refine the app's design and functionality, incorporating user feedback to improve the overall user experience.",
+    },
+    {
+        id: '2',
+        title: "PillUp!",
+        heroPrototype: "/images/projects/pillup/pillup-hero.png",
+        description: 'A Medicine Reminder App',
+        projectSummary: 'PillUp! is a medications reminder app that aims to help people to remember when to take their medications and which medications it’s to take.',
+        designerRole: 'UI/UX Designer',
+        projectGoal: 'To create a mobile app that allows users to remind themselves to take their medications.',
+        projectDuration: 'February 2023 - May 2023',
+        projectTools: 'Figma, Adobe Illustrator, Adobe Photoshop',
+        targetAudience: 'People who take medicine regularly, people who have trouble remembering to take their medicine and people who are too busy to remember when to take their medications.',
+        challenges: 'The biggest challenge was to create a design that is simple and easy to use. I wanted to make sure that the design is not too overwhelming for the users. I also wanted to make sure that the design is not too simple and boring. I wanted to make sure that the design is not too overwhelming for the users. I also wanted to make sure that the design is not too simple and boring.',
+        lofiPrototype: '/images/projects/pillup/pillup-lofi.png',
+        hifiPrototype: '/images/projects/pillup/pillup-hifi.png',
+        slideDeckFile: '/documents/pillup-slidedeck.pdf',
+        conclusion: "In conclusion, the UX design project for PillUp!, the medication reminder app, was developed to assist people in remembering when to take their medications and which medications to take. Through the use of clear and concise design elements, the project successfully achieved its objective of helping users manage their medication schedule with ease.",
+    },
+]
+
+export default ProjectData
